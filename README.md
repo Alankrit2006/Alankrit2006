@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alankrit2006
 - 👀 I’m interested in ...learning the world of codes
-- 🌱 I’m currently learning ...basics of c
+- 🌱 I’m currently learning ...basics of c++ DSA and java OOPS
 - 💞️ I’m looking to collaborate on ...open source projects
 - 📫 How to reach me ...alankritsingh2006@gmail.com
 - 😄 Pronouns: ...he/him
